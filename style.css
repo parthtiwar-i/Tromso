@@ -1,0 +1,40 @@
+.customBackground{
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 10%, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.8) 100%), url(Images/mainBackground.jpeg);
+    background-size: cover;
+}
+
+.big-heading{
+    font-family: 'Playfair', serif;
+    font-weight: 600;
+}
+
+.big-padding{
+    padding-top: 2rem;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.text-black{
+    color: black;
+}
+
+.input{
+    width: 60%;
+    padding: 5px;
+    height: 2rem;
+    color: white;
+    background-color: rgba(0, 0, 0, 0);
+    border: solid 1px rgb(255, 255, 255);
+    border-radius: 15px 0 0 15px;
+}
+
+.submitButton{
+    width: 25%;
+    padding: 5px;
+    height: 2rem;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 0 15px 15px 0;
+}
